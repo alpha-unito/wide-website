@@ -1,0 +1,21 @@
+baseURL: "https://wide.hpc4ai.it/"
+languageCode: "en-us"
+menu:
+  main:
+    - identifier: editions
+      name: "Editions"
+      pageRef: /
+    - name: "2023"
+      pageRef: /2023
+      parent: editions
+      weight: 5
+    - name: "2024"
+      pageRef: /2024
+      parent: editions
+      weight: 4
+params:
+  custom_css:
+    - "table.css"
+sectionPagesMenu: main
+title: "WiDE"
+theme: "github.com/theNewDynamic/gohugo-theme-ananke"
