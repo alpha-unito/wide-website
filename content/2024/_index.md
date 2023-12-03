@@ -63,4 +63,10 @@ All dates below are Anywhere on Earth (AoE):
 
 ### Program Committee
 
-TBD
+- Silvina Caíno-Lores, INRIA, Rennes, France
+- Diana Di Luccio, University of Naples Parthenope, Italy
+- Josè Luis Gonzales Compean, CINVESTAV-IPN, Mexico City, Mexico
+- Tanu Malik, DePaul University, Chicago, IL, USA
+- Anirban Mandal, RENCI, Chapel Hill, NC, USA
+- Ketan Maheshwari, ORNL, Oak Ridge, TN, USA
+- Doriana Medić, University of Torino, Italy
