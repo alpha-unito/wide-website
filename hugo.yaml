@@ -15,6 +15,7 @@ menu:
       weight: 4
 params:
   custom_css:
+    - "button.css"
     - "table.css"
 sectionPagesMenu: main
 title: "WiDE"

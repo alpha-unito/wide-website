@@ -1,0 +1,23 @@
+<button
+    {{ with .Get "id" }}
+        id="{{ . }}"
+    {{ end }}
+    {{ with .Get "href" }}
+        onclick="window.open('{{ . | safeURL }}', '_blank');"
+    {{ end }}
+    {{ with .Get "target" }}
+        target="{{ . }}"
+    {{ end }}
+    {{ with .Get "class" }}
+        class="{{ . }}"
+    {{ end }}
+    {{ with .Get "disabled" }}
+        {{ if . }}
+            disabled
+        {{ end }}
+    {{ end }}
+>
+    {{ with .Get "value" }}
+        {{ . }}
+    {{ end }}
+</button>

@@ -50,6 +50,8 @@ All dates below are Anywhere on Earth (AoE):
 - **Acceptance decisions**: Saturday, March 02, 2024
 - **Camera-ready sumbissions**: Friday, March 15, 2024
 
+{{< button class="btn btn-submit" href="https://wide24.hotcrp.com/" value="Submit your paper" >}}
+
 ## Organization
 
 ### Workshop Chairs
@@ -58,15 +60,22 @@ All dates below are Anywhere on Earth (AoE):
   <iacopo.colonnelli@unito.it>
 - Henri Casanova, University of Hawaii, Manoa, Honolulu, HI, USA \
   <henric@hawaii.edu>
-- Raffaele Montella, University of Napoli Parthenope, Italy \
+- Raffaele Montella, University of Naples Parthenope, Italy \
   <raffaele.montella@uniparthenope.it>
 
 ### Program Committee
 
 - Silvina Caíno-Lores, INRIA, Rennes, France
-- Diana Di Luccio, University of Naples Parthenope, Italy
+- Barbara Cantalupo, University of Torino, Italy
+- Tainã Coleman, University of South California, Los Angeles, CA, USA
 - Josè Luis Gonzales Compean, CINVESTAV-IPN, Mexico City, Mexico
+- Diana Di Luccio, University of Naples Parthenope, Italy
+- Thomas Fahringer, University of Innsbruck, Austria
 - Tanu Malik, DePaul University, Chicago, IL, USA
 - Anirban Mandal, RENCI, Chapel Hill, NC, USA
 - Ketan Maheshwari, ORNL, Oak Ridge, TN, USA
 - Doriana Medić, University of Torino, Italy
+- Claudia Misale, IBM T. J. Watson Research Center, Yorktown Heights, NY, USA
+- Paula Olaya Garcia, University of Tennessee Knoxville, TN, USA
+- Tyler Skluzacek, ORNL, Oak Ridge, TN, USA
+- Renan Souza, ORNL, Oak Ridge, TN, USA
