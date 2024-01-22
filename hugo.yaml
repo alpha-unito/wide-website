@@ -1,4 +1,5 @@
 baseURL: "https://wide.hpc4ai.it/"
+enableRobotsTXT: true
 languageCode: "en-us"
 menu:
   main:

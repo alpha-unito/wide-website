@@ -1,0 +1,22 @@
+<div class="mw5 shadow-5-ns {{ .Get "class" }}">
+    <a
+        {{ with .Get "href" }}
+            href="{{ . }}"
+        {{ end }}
+        target="{{ default "_blank" (.Get "target") }}"
+    >
+        <img
+            {{ with .Get "img.src" }}
+                src="{{ . }}"
+            {{ end }}
+            class="v-mid"
+            {{ with .Get "img.alt" }}
+                src="{{ . }}"
+            {{ end }}
+            class="v-mid"
+            {{ with .Get "img.title" }}
+                title="{{ . }}"
+            {{ end }}
+        />
+    </a>
+</div>

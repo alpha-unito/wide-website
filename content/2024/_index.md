@@ -50,7 +50,11 @@ All dates below are Anywhere on Earth (AoE):
 - **Acceptance decisions**: Saturday, March 02, 2024
 - **Camera-ready sumbissions**: Friday, March 15, 2024
 
-{{< button class="btn btn-submit" href="https://wide24.hotcrp.com/" value="Submit your paper" >}}
+{{<button
+  class="btn btn-submit"
+  href="https://wide24.hotcrp.com/"
+  value="Submit your paper"
+>}}
 
 ## Organization
 
@@ -79,3 +83,13 @@ All dates below are Anywhere on Earth (AoE):
 - Paula Olaya Garcia, University of Tennessee Knoxville, TN, USA
 - Tyler Skluzacek, ORNL, Oak Ridge, TN, USA
 - Renan Souza, ORNL, Oak Ridge, TN, USA
+
+### Sponsored by
+
+{{<card
+  class="sponsor"
+  href="https://admire-eurohpc.eu/"
+  img.alt="ADMIRE EuroHPC Project"
+  img.src="/images/2024/sponsor-logo-admire.png"
+  img.title="Adaptative Multi-tier Intelligent data manager for Exascale"
+>}}
