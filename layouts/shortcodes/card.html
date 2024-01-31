@@ -1,4 +1,4 @@
-<div class="mw5 shadow-5-ns {{ .Get "class" }}">
+<div class="dib h3 mh1 shadow-5-ns {{ .Get "class" }}">
     <a
         {{ with .Get "href" }}
             href="{{ . }}"
@@ -9,11 +9,10 @@
             {{ with .Get "img.src" }}
                 src="{{ . }}"
             {{ end }}
-            class="v-mid"
+            class="v-mid h-100"
             {{ with .Get "img.alt" }}
                 src="{{ . }}"
             {{ end }}
-            class="v-mid"
             {{ with .Get "img.title" }}
                 title="{{ . }}"
             {{ end }}

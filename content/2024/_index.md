@@ -88,6 +88,14 @@ All dates below are Anywhere on Earth (AoE):
 
 {{<card
   class="sponsor"
+  href="https://across-eurohpc.eu/"
+  img.alt="ACROSS EuroHPC Project"
+  img.src="/images/2024/sponsor-logo-across.png"
+  img.title="HPC, Big Data, and Artificial Intelligence convergent platform"
+>}}
+
+{{<card
+  class="sponsor"
   href="https://admire-eurohpc.eu/"
   img.alt="ADMIRE EuroHPC Project"
   img.src="/images/2024/sponsor-logo-admire.png"
