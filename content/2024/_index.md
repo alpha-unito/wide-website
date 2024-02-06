@@ -46,7 +46,7 @@ The WiDE workshop promotes Open Science. Publishing Open Access data, code, and 
 
 All dates below are Anywhere on Earth (AoE):
 
-- **Manuscript submissions**: Saturday, February 10, 2024
+- **Manuscript submissions (extended)**: ~~Saturday, February 10, 2024~~ Saturday, February 17, 2024
 - **Acceptance decisions**: Saturday, March 02, 2024
 - **Camera-ready sumbissions**: Friday, March 15, 2024
 

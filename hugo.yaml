@@ -17,6 +17,7 @@ menu:
 params:
   custom_css:
     - "button.css"
+    - "del.css"
     - "table.css"
 sectionPagesMenu: main
 title: "WiDE"
