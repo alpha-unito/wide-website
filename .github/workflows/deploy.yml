@@ -15,6 +15,8 @@ jobs:
           hugo-version: '0.120.4'
           extended: true
       - name: "Build"
+        env:
+          HUGO_ENV: production
         run: hugo --minify
       - name: "Deploy"
         uses: appleboy/scp-action@v0.1.4
