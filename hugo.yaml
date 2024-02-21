@@ -1,4 +1,6 @@
 baseURL: "https://wide.hpc4ai.it/"
+disableKinds:
+ - taxonomy
 enableRobotsTXT: true
 languageCode: "en-us"
 menu:
