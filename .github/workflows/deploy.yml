@@ -28,3 +28,12 @@ jobs:
           strip_components: 1
           target: /mnt/services/wide/html
           username: wide-user
+      - name: "Reload Nginx"
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: wide.hpc4ai.it
+          key: ${{ secrets.SSH_DEPLOY_KEY }}
+          script: /mnt/services/wide/bin/reload.sh
+          username: wide-user
+        
+        
