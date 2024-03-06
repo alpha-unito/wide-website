@@ -21,6 +21,10 @@ params:
     - "button.css"
     - "del.css"
     - "table.css"
+  favicon:
+    dark: "images/favicon-dark.png"
+    light: "images/favicon-light.png"
+  site_logo: "images/logo.svg"
 sectionPagesMenu: main
 title: "WiDE"
 theme: "github.com/theNewDynamic/gohugo-theme-ananke"

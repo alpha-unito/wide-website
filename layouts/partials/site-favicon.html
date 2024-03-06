@@ -1,0 +1,18 @@
+{{ if .Site.Params.favicon }}
+    <link rel="icon" href="" type="image/x-icon" />
+
+    <script>
+        const toggle_favicon = () => {
+            const favicon = document.querySelector('link[rel="icon"]');
+            favicon.href = (window.matchMedia('(prefers-color-scheme: dark)').matches)
+                    ? '{{ relURL ($.Site.Params.favicon.dark) }}'
+                    : '{{ relURL ($.Site.Params.favicon.light) }}';
+        };
+
+        toggle_favicon();
+
+        window
+            .matchMedia('(prefers-color-scheme: dark)')
+            .addEventListener('change', toggle_favicon);
+    </script>
+{{ end }}
