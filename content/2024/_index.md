@@ -10,6 +10,22 @@ type: "page"
 
 The WiDE workshop aims to bring together researchers working on all aspects of distributed workflows. Workflow models represent a powerful abstraction for designing complex applications and executing them on large-scale distributed architectures. However, modelling, orchestrating, and monitoring distributed workflows pose unique challenges that raise many research questions. Managing distributed workflows is a complex task which covers a broad range of diverse topics and their need to interoperate: design patterns and languages, orchestration tools, scheduling and fault-tolerance algorithms, performance monitoring, benchmarking procedures, distributed FAIRness, end-to-end privacy and security, and many more. Plus, the modular nature of modern applications and the heterogeneity in contemporary hardware require workflow systems to support a large ecosystem of execution environments (from HPC to cloud, to the Edge), optimisation policies (performance vs. energy efficiency) and computational models (from classical to quantum). In the same spirit that inspired the [Workflow Community Initiative](https://workflows.community/), the WiDE workshop will allow researchers to share their knowledge on specific aspects of the topic and gain insights from different points of view. Direct exchange of views and ideas will be further encouraged by an open discussion session at the end of the event.
 
+## Program
+
+The WiDE Workshop will be held on Monday, April 22nd, 2024 at the Royal Olympic Hotel. The technical program is detailed below:
+
+|       |                                                                                                                                                                                          |
+| :---- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 09:00 | Welcome                                                                                                                                                                                  |
+| 09:10 | Keynote                                                                                                                                                                                  |
+| 10:10 | Paper: Workflows' applications in computational environmental science: a survey                                                                                                          |
+| 10:30 | Coffee break                                                                                                                                                                             |
+| 11:00 | Paper: Secure Generic Remote Workflow Execution with TEEs                                                                                                                                |
+| 11:20 | Paper: Advanced Resource Allocation in the Context of Heterogeneous Workflows Management                                                                                                 |
+| 11:40 | Paper: An ad-hoc file system accelerated workflow application for accidental fire fast response                                                                                          |
+| 12:00 | Open discussion                                                                                                                                                                          |
+| 12:30 | Lunch break                                                                                                                                                                              |
+
 ## Scope
 
 The WiDE 2024 workshop will be held in conjunction with the [EuroSys 2024](http://2024.eurosys.org/) conference in Athens, Greece. All papers submitted to WiDE 2024 will be published in the ACM Digital Library within the EuroSys 2024 common workshops proceedings.
@@ -46,15 +62,9 @@ The WiDE workshop promotes Open Science. Publishing Open Access data, code, and 
 
 All dates below are Anywhere on Earth (AoE):
 
-- **Manuscript submissions (extended)**: ~~Saturday, February 10, 2024~~ Saturday, February 23, 2024
+- **Manuscript submissions (extended)**: Saturday, February 23, 2024
 - **Acceptance decisions**: Saturday, March 02, 2024
 - **Camera-ready sumbissions**: Friday, March 15, 2024
-
-{{<button
-  class="btn btn-submit"
-  href="https://wide24.hotcrp.com/"
-  value="Submit your paper"
->}}
 
 ## Organization
 
