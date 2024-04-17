@@ -14,13 +14,13 @@ The WiDE workshop aims to bring together researchers working on all aspects of d
 
 The WiDE Workshop will be held on Wednesday, June 28th, 2023 in Room D4. The technical program is detailed below:
 
-|         |                                                                                                                                                                                          |
-| :------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 08:30am | Welcome                                                                                                                                                                                  |
-| 08:40am | Paper: [Porting the Variant Calling Pipeline for NGS data in cloud-HPC environment](https://ieeexplore.ieee.org/document/10197138)                                                       |
-| 09:00am | Paper: [Towards formal model for location aware workflows](https://ieeexplore.ieee.org/abstract/document/10196833)                                                                       |
-| 09:20am | Paper: [WfCommons: Data Collection and Runtime Experiments using Multiple Workflow Systems](https://ieeexplore.ieee.org/document/10196814)                                               |
-| 09:40am | Paper: [A Proposal for a Continuum-aware Programming Model: From Workflows to Services Autonomously Interacting in the Compute Continuum](https://ieeexplore.ieee.org/document/10196847) |
+|         |                                                                                                                                                                                            |
+| :------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 08:30am | Welcome                                                                                                                                                                                    |
+| 08:40am | Paper: [Porting the Variant Calling Pipeline for NGS data in cloud-HPC environment](https://doi.org/10.1109/COMPSAC57700.2023.00288)                                                       |
+| 09:00am | Paper: [Towards formal model for location aware workflows](https://doi.org/10.1109/COMPSAC57700.2023.00289)                                                                                |
+| 09:20am | Paper: [WfCommons: Data Collection and Runtime Experiments using Multiple Workflow Systems](https://doi.org/10.1109/COMPSAC57700.2023.00290)                                               |
+| 09:40am | Paper: [A Proposal for a Continuum-aware Programming Model: From Workflows to Services Autonomously Interacting in the Compute Continuum](https://doi.org/10.1109/COMPSAC57700.2023.00287) |
 
 ## Scope
 

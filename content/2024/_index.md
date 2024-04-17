@@ -14,17 +14,17 @@ The WiDE workshop aims to bring together researchers working on all aspects of d
 
 The WiDE Workshop will be held on Monday, April 22nd, 2024 at the Royal Olympic Hotel. The technical program is detailed below:
 
-|       |                                                                                                                                                                                          |
-| :---- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 09:00 | Welcome                                                                                                                                                                                  |
-| 09:10 | Keynote                                                                                                                                                                                  |
-| 10:10 | Paper: Workflows' applications in computational environmental science: a survey                                                                                                          |
-| 10:30 | Coffee break                                                                                                                                                                             |
-| 11:00 | Paper: Secure Generic Remote Workflow Execution with TEEs                                                                                                                                |
-| 11:20 | Paper: Advanced Resource Allocation in the Context of Heterogeneous Workflows Management                                                                                                 |
-| 11:40 | Paper: An ad-hoc file system accelerated workflow application for accidental fire fast response                                                                                          |
-| 12:00 | Open discussion                                                                                                                                                                          |
-| 12:30 | Lunch break                                                                                                                                                                              |
+|       |                                                                                                                                              |
+| :---- | :------------------------------------------------------------------------------------------------------------------------------------------- |
+| 09:00 | Welcome                                                                                                                                      |
+| 09:10 | Keynote                                                                                                                                      |
+| 10:10 | Paper: [Workflows' applications in computational environmental science: a survey](https://doi.org/10.1145/3642978.3652833)                   |
+| 10:30 | Coffee break                                                                                                                                 |
+| 11:00 | Paper: [Secure Generic Remote Workflow Execution with TEEs](https://doi.org/10.1145/3642978.3652834)                                         |
+| 11:20 | Paper: [Advanced Resource Allocation in the Context of Heterogeneous Workflows Management](https://doi.org/10.1145/3642978.3652835)          |
+| 11:40 | Paper: [An ad-hoc file system accelerated workflow application for accidental fire fast response](https://doi.org/10.1145/3642978.3652836)   |
+| 12:00 | Open discussion                                                                                                                              |
+| 12:30 | Lunch break                                                                                                                                  |
 
 ## Scope
 
